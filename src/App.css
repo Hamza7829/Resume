@@ -1,0 +1,96 @@
+.name{
+background-color: blanchedalmond;
+font-size: large;
+font: weight 500px; 
+font-style: italic;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+#number{
+  font-size:medium ;
+  font: weight 300px; 
+  font-style: italic;
+}
+#email{
+  margin:0;
+  padding-bottom: 5px;
+  
+}
+.object{
+  position: relative;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: normal;
+  font-weight: 700;
+  border: 5px solid black;
+}
+#para{
+  text-align: justify;
+ text-decoration: none;
+}
+.personal{
+  position: relative;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: normal;
+  font-weight: 700;
+  border: 5px solid black;
+}
+h5{
+  font-size:medium ;
+  font: weight 300px; 
+  font-style: normal;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.edu{
+  position: relative;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: normal;
+  font-weight: 700;
+  border: 5px solid black;
+}
+table{
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+  th,td{
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+  }
+    tr:hover{
+      background-color: #e0e0e0;
+    }
+  }
+    .skill{
+      position: relative;
+      font-family: 'Times New Roman', Times, serif;
+      font-style: normal;
+      font-weight: 700;
+      border: 5px solid black;
+    }
+    h6{
+     font-size: 1em;
+     font-weight: normal;
+     margin-bottom: 10px;
+    }
+    .ref{
+      position: relative;
+      font-family: 'Times New Roman', Times, serif;
+      font-style: normal;
+      font-weight: 700;
+      border: 5px solid black;
+    }
+.exp{
+  position: relative;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: normal;
+  font-weight: 700;
+  border: 5px solid black;
+}
+p{
+  font-weight: bold;
+  letter-spacing: 1px;
+  line-height: 1.5;
+  margin-bottom: 15px;
+  color: black;
+  font-family:Georgia, 'Times New Roman', Times, serif ;
+}
